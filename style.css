@@ -1,0 +1,18 @@
+To save your code to the repository, follow these steps:
+
+1. **Stage the file**:
+    ```bash
+    git add style.css
+    ```
+
+2. **Commit the changes**:
+    ```bash
+    git commit -m "Add style.css"
+    ```
+
+3. **Push to the repository**:
+    ```bash
+    git push
+    ```
+
+Make sure you have already set up your repository and are on the correct branch.
